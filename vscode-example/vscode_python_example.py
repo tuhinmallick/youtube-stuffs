@@ -14,5 +14,4 @@ def test1(x:int, y:int) -> int:
     Returns:
         int: _description_
     """
-    z = x + y
-    return z
+    return x + y
